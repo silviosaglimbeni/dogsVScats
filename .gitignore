@@ -108,4 +108,7 @@ venv.bak/
 
 train/
 test/
+validation/
 sample_submission.csv
+Graph/*
+CheckPoint/*
